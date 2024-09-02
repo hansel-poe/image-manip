@@ -1,6 +1,6 @@
 # image-manip
 
-This simple C++ Image manipulation program which takes an image input and performs a bunch of manipulation functions which alters the image. 
+A simple C++ Image manipulation program which takes an image input and performs a bunch of manipulation functions which alters the image. 
 An Image struct stores the pixel data of an image and all the manip functions. The parsing and writing of images are made possible by stb_image and stb_image_write libraries (credit provided in the header files).
 
 The following functions are provided:
